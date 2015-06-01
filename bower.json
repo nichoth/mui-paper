@@ -1,0 +1,22 @@
+{
+  "name": "mui-paper",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nichoth/mui-paper",
+  "authors": [
+    "nichoth <nichoth@gmail.com>"
+  ],
+  "description": "Material UI paper component implemented in sass.",
+  "main": "_mui-paper.scss",
+  "keywords": [
+    "material",
+    "paper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
