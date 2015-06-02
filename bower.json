@@ -9,7 +9,8 @@
   "main": "_mui-paper.scss",
   "keywords": [
     "material",
-    "paper"
+    "paper",
+    "sass"
   ],
   "license": "MIT",
   "ignore": [
